@@ -1,7 +1,7 @@
 {
   "name": "ember-svg-sprite-sheet",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Addon for adding and managing SVG sprites in your ember app",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -36,7 +36,11 @@
     "ember-try": "0.0.6"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "svg",
+    "ember",
+    "sprite sheet",
+    "ember sprite sheet"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.0.0",

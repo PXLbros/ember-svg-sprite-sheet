@@ -11,8 +11,5 @@ module.exports = {
         return fs.readFileSync(svgPath).toString();
       }
     }
-  },
-  isDevelopingAddon: function() {
-    return true;
   }
 };
