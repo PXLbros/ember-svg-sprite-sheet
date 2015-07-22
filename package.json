@@ -1,6 +1,6 @@
 {
   "name": "ember-svg-sprite-sheet",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Addon for adding and managing SVG sprites in your ember app",
   "directories": {
     "doc": "doc",
