@@ -5,7 +5,8 @@ The goal of this addon is to compile svgs into a "srpite sheet" that is then inl
 ## Installation
 
 * `ember install ember-svg-sprite-sheet`
-Add to your `Brocfile.js`, where `'path'` is a reative URL from your apps root to a precompiled svg sprite sheet (for now).
+
+Add the following to your `Brocfile.js`, where `'path'` is a reative URL from your apps root to a precompiled svg sprite sheet (for now).
 ```JS
 var app = new EmberApp({
   'ember-svg-sprite-sheet': {
